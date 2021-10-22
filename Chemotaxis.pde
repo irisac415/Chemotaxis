@@ -36,7 +36,7 @@ Walker [] betterOldPplHome = new Walker[25];
 
 void setup()
 {
-  size(500, 500);
+  size(600, 600);
   background(255);
   frameRate(70);
   fred = new Walker();
