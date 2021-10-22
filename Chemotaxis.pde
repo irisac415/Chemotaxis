@@ -3,8 +3,8 @@ class Walker
   int myX, myY;
   Walker()
   {
-    myX = 250;
-    myY = 250;
+    myX = 300;
+    myY = 300;
   }
   void walk()
   {
